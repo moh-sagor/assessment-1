@@ -1,0 +1,35 @@
+.h1-top {
+   font-size: 70px;
+}
+
+.angle-icon {
+   border: 2px solid #0DCAF0;
+   padding: 12px;
+   border-radius: 60%;
+}
+
+.footer-menu-span {
+   color: #aaaaaa;
+   font-size: 13px;
+}
+
+.team-img {
+   position: relative;
+   z-index: 1;
+}
+
+.team-btn {
+   position: absolute;
+   top: 272px;
+   left: 50%;
+   transform: translate(-50%);
+}
+
+.team-a {
+   text-decoration: none;
+   color: white;
+   background-color: #0DCAF0;
+   border-radius: 5px;
+   padding: 5px 5px;
+   cursor: none;
+}
